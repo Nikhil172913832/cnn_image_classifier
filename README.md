@@ -1,0 +1,1 @@
+This is a CNN(Convolutional Neural network) built for classifying emotions of human beings based on their photos, the model for now is just for binary classification i.e happy or sad. In future , it will be generalized for a range of emotions.
